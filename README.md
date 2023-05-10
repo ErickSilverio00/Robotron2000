@@ -19,7 +19,7 @@ Página Web criada com base em treinamento de JavaScript da Alura, de uma págin
 
 ## 📁 Acesso ao projeto
 
-[Clique aqui para acessar](https://ericksilverio00.github.io/AluraMidi/)
+[Clique aqui para acessar](https://robotron2000-eight-topaz.vercel.app/)
 
 ## 🛠️ Abrir e rodar o projeto
 
